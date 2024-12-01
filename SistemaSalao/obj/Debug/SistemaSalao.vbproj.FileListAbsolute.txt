@@ -1,0 +1,19 @@
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbprojAssemblyReference.cache
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.frmLogin.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.frmTelaPrincipal.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\Users\samue\Downloads\Sistema Inicial\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.AssemblyReference.cache
+C:\Users\samue\Downloads\Sistema Inicial\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Users\samue\Downloads\Sistema Inicial\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\Users\samue\Downloads\Sistema Inicial\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
